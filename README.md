@@ -1,4 +1,3 @@
 # conflict-test
 
-
-NO WAY !!!!!!!!!!!!!!!
+yes
