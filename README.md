@@ -1,3 +1,4 @@
 # conflict-test
 
-HELLO! HELLO!
+
+SURE WHY NOT!
